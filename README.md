@@ -57,7 +57,7 @@ blog-sistemi/
 ├── routes/
 │   └── blogRoutes.js              # API rotaları
 │
-├── .env                           # Ortam değişkenleri (örn: PORT)
+├── .env                           # Ortam değişkenleri
 ├── server.js                      # Express sunucusunun başlatıldığı ana dosya
 └── README.md                      # Proje dökümantasyonu
 
@@ -65,7 +65,7 @@ blog-sistemi/
 
 ## ⚙️ Kurulum
 ```
-- git clone https://github.com/MuhammetOkkes/Node.js-Blog-Sistemi
+- git clone https://github.com/MuhammetOkkes/Node.js-Blog-Sistemi-Express.js
 - cd blog-sistemi
 - npm install  # Bağımlılık yoksa bu adım opsiyoneldir
 - node index.js
