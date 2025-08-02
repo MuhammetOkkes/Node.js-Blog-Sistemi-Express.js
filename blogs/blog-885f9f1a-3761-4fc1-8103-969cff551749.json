@@ -1,0 +1,7 @@
+{
+  "id": "885f9f1a-3761-4fc1-8103-969cff551749",
+  "title": "Node.js ile Dosya İşlemleri",
+  "content": "Node.js'in yerleşik 'fs' modülü sayesinde dosya okuma, yazma, silme gibi işlemler kolayca yapılabilir. Bu işlemler, veri kaydetme ve log tutma senaryolarında oldukça önemlidir.",
+  "date": "2025-07-26T12:57:57.095Z",
+  "readCount": 0
+}
